@@ -4,24 +4,22 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer | Engineer | Graduate Student
 ------------------------------------------------
 
-Hey there, I'm a Software Developer who loves tackling all sorts of software projects, big and small. Whether it's crafting snazzy AI systems or building speedy microservices that make life easier for big businesses, I'm always ready for a challenge. I've got a knack for every stage of the software development process, from figuring out what's needed all the way to putting the finishing touches on a polished product. I'm totally comfortable with all sorts of fancy frameworks and technologies like Java, Javascript, Typescript, Angular, Node.js, SQL, Docker, and more. Plus, I'm a total sponge when it comes to soaking up new ideas and skills, and I'm always eager to learn more about the latest and greatest in software engineering.
+Hey there, I'm a Software Developer who loves tackling all sorts of software projects, big and small. Whether it's crafting snazzy AI systems or building microservices that make life easier for big businesses, I'm always ready for a challenge. I've got a knack for every stage of the software development process, from figuring out what's needed all the way to putting the finishing touches on a polished product. I'm totally comfortable with all sorts of frameworks and technologies like Java, Javascript, React, Angular, Node.js, SQL, Docker, and more. Plus, you can consider me a complete sponge when it comes to soaking up new ideas and skills, and I'm always eager to learn more about the latest and greatest in software engineering.
 
 * 🌍  I'm based in Melbourne, Australia
 * ✉️  You can contact me at [navdeepbeniwal16@gmail.com](mailto:navdeepbeniwal16@gmail.com)
-* 🧠  I'm learning Express.js, Node.js and TypeScript
-* 🤝  I'm open to collaborating on The Creative Corner: A webapp that enables professional creative writers to build a network of peers, collaborate, and exchange feedback and ideas to grow and succeed in their literary journey.
-* ⚡  I'm a part-time barista as well 😁
+* 🧠  I'm learning more about React, and TypeScript at the moment
+* 🤝  I'm open to collaborating on TalkTune: An AI-driven web platfrom that empower users to improve their english communication skills by emulating real-world environments and context to practice your skills in, followed by a detailed feedback on your interactions.
+* ⚡  I'm quite excited about the Start-up and AI space, so if you are working on something exciting yourself, I would love to get in touch with you.
 
 ### Skills
 
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="36" height="36" alt="NextJs" /></a>
 <a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
